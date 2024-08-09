@@ -1,0 +1,32 @@
+# Entorno virtual
+venv/
+
+# Archivos de base de datos
+*.sqlite3
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración del entorno
+.env
+
+# Archivos de migraciones
+**/migrations/
+
+# Archivos estáticos y multimedia
+staticfiles/
+media/
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de configuración de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de editor de texto
+.*.swp
+.*.swo
